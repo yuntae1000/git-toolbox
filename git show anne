@@ -1,0 +1,29 @@
+[33mcommit 08c9fa1876c4c56a4d69a5482762cd269997f80e[m
+Author: YoonTae Jake Jung <yuntae1000@gmail.com>
+Date:   Fri Oct 2 14:32:11 2015 -0400
+
+    the first commit of hello.py
+
+[33mcommit 5de91d6b9330f0e41f4e30b3edafae329fb76048[m
+Author: Anne LoVerso <aelv13@gmail.com>
+Date:   Sat Sep 26 16:08:32 2015 -0700
+
+    update
+    
+    update 2
+
+[33mcommit 7778441b644d577c55a5a9d4bb1875eaffbfe038[m
+Author: Anne LoVerso <aelv13@gmail.com>
+Date:   Fri Sep 25 16:57:07 2015 -0700
+
+    Readme: Add some tasks regarding initial steps and commits
+    
+    Took notes in the README to lay out an outline for this toolbox, and drafted
+    some initial steps for students to follow in cloning the repo and learning
+    about commits and commit messages.
+
+[33mcommit ad1af497ebd04b37f1f2f60489dead4818b66e8f[m
+Author: Anne  LoVerso <aelv13@gmail.com>
+Date:   Fri Sep 25 19:31:43 2015 -0400
+
+    Initial commit
