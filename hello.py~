@@ -1,0 +1,18 @@
+def hello(x):
+	return "<<< " + x + ">>>"+'\n' "I really like you"
+from random import randint
+
+print hello('Jake')
+
+## I want to make a slight change and recommit!
+##recommit once again
+
+i=["product",["x"],["y"]]
+print i[0]
+print i[1]
+print i[2]
+i[1]=["z"]
+print i[1]
+
+j=[["x"],["y"]]
+print j[randint(0,1)]
